@@ -1,0 +1,23 @@
+# Ignorar carpetas pesadas y temporales dentro de la carpeta Unity
+/Unity/[lL]ibrary/
+/Unity/[lL]ogs/
+/Unity/[uU]ser[sS]ettings/
+/Unity/[oO][bB]j/
+/Unity/[bB]uild/
+/Unity/[bB]uilds/
+/Unity/[lL]ocal[cC]ache/
+/Unity/[mM]emoryCaptures/
+
+# Archivos de solución de código dentro de la carpeta Unity
+/Unity/*.csproj
+/Unity/*.sln
+/Unity/*.suo
+/Unity/*.user
+/Unity/*.userprefs
+/Unity/.vs/
+/Unity/.idea/
+
+# Archivos del sistema generales
+.DS_Store
+Thumbs.db
+*.bak
