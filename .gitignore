@@ -1,21 +1,21 @@
-# Ignorar carpetas pesadas y temporales dentro de la carpeta Unity
-/Unity/[lL]ibrary/
-/Unity/[lL]ogs/
-/Unity/[uU]ser[sS]ettings/
-/Unity/[oO][bB]j/
-/Unity/[bB]uild/
-/Unity/[bB]uilds/
-/Unity/[lL]ocal[cC]ache/
-/Unity/[mM]emoryCaptures/
+# Ignorar carpetas pesadas y temporales en la ruta exacta de Unity
+/Unity/VR-UCN/[lL]ibrary/
+/Unity/VR-UCN/[lL]ogs/
+/Unity/VR-UCN/[uU]ser[sS]ettings/
+/Unity/VR-UCN/[oO][bB]j/
+/Unity/VR-UCN/[bB]uild/
+/Unity/VR-UCN/[bB]uilds/
+/Unity/VR-UCN/[lL]ocal[cC]ache/
+/Unity/VR-UCN/[mM]emoryCaptures/
 
-# Archivos de solución de código dentro de la carpeta Unity
-/Unity/*.csproj
-/Unity/*.sln
-/Unity/*.suo
-/Unity/*.user
-/Unity/*.userprefs
-/Unity/.vs/
-/Unity/.idea/
+# Archivos de solución de código en la ruta de Unity
+/Unity/VR-UCN/*.csproj
+/Unity/VR-UCN/*.sln
+/Unity/VR-UCN/*.suo
+/Unity/VR-UCN/*.user
+/Unity/VR-UCN/*.userprefs
+/Unity/VR-UCN/.vs/
+/Unity/VR-UCN/.idea/
 
 # Archivos del sistema generales
 .DS_Store
