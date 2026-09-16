@@ -123,7 +123,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: vidrioCortina
-    second: {fileID: 2100000, guid: 77bf8e7bd25136f4d83ebf4867d2a22b, type: 2}
+    second: {fileID: 2100000, guid: dc4516b3855bf38429d4fa8d9ff91701, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -134,181 +134,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: woodParquet
     second: {fileID: 2100000, guid: b92e6c1fc964018449b04e3e93c50fc9, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Marble012_1K-JPG_Color
-    second: {fileID: 2800000, guid: 909e156a152ae534488de5a506cebd18, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Marble012_1K-JPG_NormalGL
-    second: {fileID: 2800000, guid: 004fe89db99cb7a4f849905e1efb4d9b, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Marble012_1K-JPG_Roughness
-    second: {fileID: 2800000, guid: aa22f8208e4d00b4391cd38cfb9235cb, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Terrazzo019M_1K-JPG_Color
-    second: {fileID: 2800000, guid: f9ed20e88de1b724f9cd26ce3c0a6d87, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Terrazzo019M_1K-JPG_NormalGL
-    second: {fileID: 2800000, guid: 044a61ff765bfeb4ea80b7bc421578e6, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Terrazzo019M_1K-JPG_Roughness
-    second: {fileID: 2800000, guid: c554aa9039f9a1a46a8753194d931730, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Tiles107_1K-JPG_Color
-    second: {fileID: 2800000, guid: 7bdc9ddfae098964f9c2a3a925b1cded, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Tiles107_1K-JPG_NormalGL
-    second: {fileID: 2800000, guid: 5018fff5719a1e942ab772ec4c42f84c, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Tiles107_1K-JPG_Roughness
-    second: {fileID: 2800000, guid: 3540e07ceb227be49a74e0a573211483, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Wood066_1K-JPG_Color
-    second: {fileID: 2800000, guid: b0ef42ec9f4d3f748ac9292e8d73b163, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Wood066_1K-JPG_NormalGL
-    second: {fileID: 2800000, guid: 0d721c8a0b995ae4d8e762fd92d406a5, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Wood066_1K-JPG_Roughness
-    second: {fileID: 2800000, guid: 4a5e32023d322e344a39a85b5afca26b, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: corrugated_iron_diff_1k
-    second: {fileID: 2800000, guid: 561109bdb02403044af2920bef90c843, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: corrugated_iron_metal_1k
-    second: {fileID: 2800000, guid: fb0457d84a9db964c91747a58e121d8b, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: corrugated_iron_nor_gl_1k
-    second: {fileID: 2800000, guid: 68dc48e32e0f7e9408c0ab2f16f7d4be, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: corrugated_iron_rough_1k
-    second: {fileID: 2800000, guid: 7308187c0a7a00147a5f421c32dc82b9, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: herringbone_parquet_diff_1k
-    second: {fileID: 2800000, guid: 15180ac9a7456f64f89f0ce6b8117253, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: herringbone_parquet_nor_gl_1k
-    second: {fileID: 2800000, guid: be892d0bc6db3c046b52f1015695ead7, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: oak_wood_planks_diff_1k
-    second: {fileID: 2800000, guid: 846773b767fe8cc43be89c6d38279c4a, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: oak_wood_planks_nor_gl_1k
-    second: {fileID: 2800000, guid: a7d0c19a64de73e438916eacd3c50aa3, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: oak_wood_planks_rough_1k
-    second: {fileID: 2800000, guid: 98de10044914b654ea95ae9ec2079147, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: red_brick_diff_1k
-    second: {fileID: 2800000, guid: dbd9db65d28ed0c4db361c13c4938c57, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: red_brick_nor_gl_1k
-    second: {fileID: 2800000, guid: d0de747d8e0fc0444a03e5ed8ef25d82, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: red_brick_rough_1k
-    second: {fileID: 2800000, guid: 54ca0a1999ca31440a624bb0b0365472, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: roof_slates_03_nor_gl_1k
-    second: {fileID: 2800000, guid: 17add6dd5c85f94478ea8cc8a767026c, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: roof_slates_03_rough_1k
-    second: {fileID: 2800000, guid: dd5fc0230018b58499c22d1bc356fedb, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: synthetic_wood_diff_1k
-    second: {fileID: 2800000, guid: e8314f64aede8da4f88879a8ce59b03a, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: synthetic_wood_nor_gl_1k
-    second: {fileID: 2800000, guid: 61f83e6c1e96a54459999f34d686239f, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: synthetic_wood_rough_1k
-    second: {fileID: 2800000, guid: beb4d1666f8654b4e995836e9d838d8e, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: terrazzo_tiles_diff_1k
-    second: {fileID: 2800000, guid: dca5a30b10b58704c8d6e1746345e047, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: terrazzo_tiles_nor_gl_1k
-    second: {fileID: 2800000, guid: 3a211cba0a8c58e41b0ce99710c43780, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: terrazzo_tiles_rough_1k
-    second: {fileID: 2800000, guid: 1d22d6998f2a4634f8f6ee43622415fe, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: white_planks_clean_diff_1k
-    second: {fileID: 2800000, guid: e4f87eb65333a7b44a76059d756fe337, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: white_planks_clean_nor_gl_1k
-    second: {fileID: 2800000, guid: 8195ab55a61ee4342aaaf7ba5533925e, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: white_planks_clean_rough_1k
-    second: {fileID: 2800000, guid: b237449b4ee307c45875cd509db51529, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -370,18 +195,18 @@ ModelImporter:
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15
+    secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVMarginMethod: 1
     secondaryUVMinLightmapResolution: 40
-    secondaryUVMinObjectScale: 0.6
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
     strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
-    tangentImportMode: 1
+    tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1

@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: c939f63d5305dbe42bc6056659488393
+ModelImporter:
+  serializedVersion: 24501
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AzulTecho
+    second: {fileID: 2100000, guid: d9effa9b11a95e64c9354c24b168c5ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlancoColorSolido
+    second: {fileID: 2100000, guid: 111a3a14c3ad39a43a9c81d0c0e350ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cristal
+    second: {fileID: 2100000, guid: 7b737888ea4036e42a5de473ed4e9bd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LadrilloColumnas
+    second: {fileID: 2100000, guid: 5c7daa5f37cf65147b18b28cc6794ced, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LadrilloParedes
+    second: {fileID: 2100000, guid: 21deb4fdcd4bb374f9e0e641a3fe775c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LogoUCNCristal
+    second: {fileID: 2100000, guid: cbf775f268a0c854fa12de9becd35f8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaderaLisa
+    second: {fileID: 2100000, guid: bf57556bb2bdbd94caeb906e1d5ef341, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: fbd6d6ff06dc01046a2ca75e9e817e17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SueloBaldosas
+    second: {fileID: 2100000, guid: a0da4c3c2af039d458c65cf1e6cf5c14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tejados
+    second: {fileID: 2100000, guid: a4bd1bd2dfbd128499cc957d9deb85ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chimeneaPiedraNegra
+    second: {fileID: 2100000, guid: ea84095c1e71d6844a1bca4db7c2d35b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ladrilloBlancoChimenea
+    second: {fileID: 2100000, guid: 8a9050aeb294fa144aed8f62ac20d5f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maderaSintetica
+    second: {fileID: 2100000, guid: fe58e400e19f3ec4f9298fc0d5083281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalBlanco
+    second: {fileID: 2100000, guid: c30211c671de1f3418876be43cf9c83d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tablasPVCblancas
+    second: {fileID: 2100000, guid: df436491699a24447a380344d3e7feb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vidrioCortina
+    second: {fileID: 2100000, guid: dc4516b3855bf38429d4fa8d9ff91701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: whiteTiles
+    second: {fileID: 2100000, guid: 3a93f6288fb31f24ab7ebb8b5c7a32ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: woodParquet
+    second: {fileID: 2100000, guid: b92e6c1fc964018449b04e3e93c50fc9, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tiles107_1K-JPG_Color
+    second: {fileID: 2800000, guid: 496a7a72be60c064abc546a1ae588908, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tiles107_1K-JPG_NormalGL
+    second: {fileID: 2800000, guid: 80f7b4a988b205443b0f6c9f9923d8f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tiles107_1K-JPG_Roughness
+    second: {fileID: 2800000, guid: 3bd9774fb75375948a5e9e9e815d25cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood066_1K-JPG_Color
+    second: {fileID: 2800000, guid: 0a1e390ad46fb494398947d02d12ba1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood066_1K-JPG_NormalGL
+    second: {fileID: 2800000, guid: 323ff9d7ade4db14bb327c56c247fde0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood066_1K-JPG_Roughness
+    second: {fileID: 2800000, guid: 119392671e1f18d43bd5e7d42278c4d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: herringbone_parquet_diff_1k
+    second: {fileID: 2800000, guid: 89d49151ac45d17429690469dc3554c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: herringbone_parquet_nor_gl_1k
+    second: {fileID: 2800000, guid: e44da26470986e94a8d082172187b8f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: red_brick_diff_1k
+    second: {fileID: 2800000, guid: c2a2446cc60cbc94ca151124c014ccbb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: red_brick_nor_gl_1k
+    second: {fileID: 2800000, guid: 6f908cafd9c463740ad1a14616e42926, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: red_brick_rough_1k
+    second: {fileID: 2800000, guid: ea318898dbb89094b858da6156325403, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof_slates_03_nor_gl_1k
+    second: {fileID: 2800000, guid: eb5a955741639394785def4c06e08286, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof_slates_03_rough_1k
+    second: {fileID: 2800000, guid: 76932dd427d5a264a879488e4c040a6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: square_floor_diff_1k
+    second: {fileID: 2800000, guid: 385fd46b920a08949851f3e365a05dfb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: square_floor_nor_gl_1k
+    second: {fileID: 2800000, guid: d7f8f38c9b71b414bb25f7eb62302cf5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: square_floor_rough_1k
+    second: {fileID: 2800000, guid: 381d165aaeafe6d46a329b1c2e5327b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: synthetic_wood_diff_1k
+    second: {fileID: 2800000, guid: 4f1d42f15ec3de84b97c70767c8b82e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: synthetic_wood_nor_gl_1k
+    second: {fileID: 2800000, guid: b909b2696d55f034da4ae33acf0bd345, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: synthetic_wood_rough_1k
+    second: {fileID: 2800000, guid: f078a7be07219f348bfa657e2107d64f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: terrazzo_tiles_diff_1k
+    second: {fileID: 2800000, guid: 091afdd496e6b6146826e3d32583eaf7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: terrazzo_tiles_nor_gl_1k
+    second: {fileID: 2800000, guid: 7b12b6357716761428c8e169e0b194e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: terrazzo_tiles_rough_1k
+    second: {fileID: 2800000, guid: 9b624b75e60fd4c4bad805673deef4c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white_planks_clean_diff_1k
+    second: {fileID: 2800000, guid: d4b4249f2ae5da9499ab302077437bf6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white_planks_clean_nor_gl_1k
+    second: {fileID: 2800000, guid: ca3ed3694cb6f0f469561cee21ed00f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white_planks_clean_rough_1k
+    second: {fileID: 2800000, guid: 66d2759b14c8e6d4aa7cfe9acc3f263f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: whitewashed_brick_diff_1k
+    second: {fileID: 2800000, guid: ca90b802df0a0fd43ae80d7c717bbaa1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: whitewashed_brick_nor_gl_1k
+    second: {fileID: 2800000, guid: 6a6d89acd45639f42b76b1193e812d4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: whitewashed_brick_rough_1k
+    second: {fileID: 2800000, guid: d82053ca3f261834490e6ea1533cbe26, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+    searchTexturesGlobally: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    importUVs: -1
+    importVertexColors: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+    calculateBlendshapeNormalsDeltaFromImportedNormals: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
