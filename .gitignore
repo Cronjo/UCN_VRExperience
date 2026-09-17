@@ -21,3 +21,11 @@
 .DS_Store
 Thumbs.db
 *.bak
+
+# Ignorar datos de iluminación y lightmaps generados por Unity
+/Unity/VR-UCN/[Aa]ssets/[Ss]cenes/**/*.asset
+/Unity/VR-UCN/[Aa]ssets/[Ss]cenes/**/*.exr
+/Unity/VR-UCN/[Aa]ssets/[Ss]cenes/**/*.png
+/Unity/VR-UCN/[Aa]ssets/[Ss]cenes/**/*.png.meta
+/Unity/VR-UCN/[Aa]ssets/[Ss]cenes/**/*.exr.meta
+/Unity/VR-UCN/[Aa]ssets/[Ss]cenes/**/*.asset.meta
