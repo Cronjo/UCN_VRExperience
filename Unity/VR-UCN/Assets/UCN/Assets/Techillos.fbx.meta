@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6bcb648644d012445b280fef877bcd01
+guid: 0fd48a4fd3094a44b800ba1a8c239e7e
 ModelImporter:
   serializedVersion: 24501
   internalIDToNameTable: []
@@ -7,23 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: AzulTecho
-    second: {fileID: 2100000, guid: d9effa9b11a95e64c9354c24b168c5ac, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: BlancoColorSolido
-    second: {fileID: 2100000, guid: 111a3a14c3ad39a43a9c81d0c0e350ed, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Cristal
-    second: {fileID: 2100000, guid: 7b737888ea4036e42a5de473ed4e9bd9, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: CristalAzulOscuro
-    second: {fileID: 2100000, guid: bc08ad5722602c647876150361581d7a, type: 2}
+      name: Concreto
+    second: {fileID: 2100000, guid: 0c3c938dac3df314585573342f42403e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -32,38 +17,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: LadrilloParedes
-    second: {fileID: 2100000, guid: 21deb4fdcd4bb374f9e0e641a3fe775c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: LogoUCNCristal
-    second: {fileID: 2100000, guid: cbf775f268a0c854fa12de9becd35f8e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MaderaLisa
-    second: {fileID: 2100000, guid: bf57556bb2bdbd94caeb906e1d5ef341, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Metal
     second: {fileID: 2100000, guid: fbd6d6ff06dc01046a2ca75e9e817e17, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: MetalAzul
-    second: {fileID: 2100000, guid: a35990448788872459599c11a7ba7ff2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: SueloBaldosas
-    second: {fileID: 2100000, guid: a0da4c3c2af039d458c65cf1e6cf5c14, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Tejados
-    second: {fileID: 2100000, guid: a4bd1bd2dfbd128499cc957d9deb85ad, type: 2}
+    second: {fileID: 2100000, guid: 4d1510879b079fa4cafbe4f9441fc9ea, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
