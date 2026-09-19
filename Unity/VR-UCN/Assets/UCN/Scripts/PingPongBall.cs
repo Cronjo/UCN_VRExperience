@@ -5,6 +5,11 @@ public class PingPongBall : MonoBehaviour
     [Header("Configuracion de Fisica")]
     [SerializeField] private float forceMultiplier = 1.2f;
 
+    [Header("Proteccion contra Colisiones Multiples")]
+    [Tooltip("Tiempo minimo en segundos entre registros de colisiones")]
+    [SerializeField] private float collisionCooldown = 0.2f;
+    private float lastCollisionTime = -1.0f;
+
     [Header("Efectos de Audio")]
     [SerializeField] private AudioClip hitSound;
     private AudioSource audioSource;
@@ -37,9 +42,16 @@ public class PingPongBall : MonoBehaviour
     {
         if (manager == null) return;
 
+        // Verificar si ha pasado suficiente tiempo desde el ultimo impacto
+        if (Time.time - lastCollisionTime < collisionCooldown)
+        {
+            return;
+        }
+
         // Golpe con la raqueta
         if (collision.gameObject.CompareTag("Paddle"))
         {
+            lastCollisionTime = Time.time;
             Vector3 hitDirection = collision.contacts[0].normal;
             rb.AddForce(-hitDirection * forceMultiplier, ForceMode.Impulse);
             PlayHitSound();
@@ -47,6 +59,7 @@ public class PingPongBall : MonoBehaviour
         // Impacto exitoso en la pared
         else if (collision.gameObject.CompareTag("Wall"))
         {
+            lastCollisionTime = Time.time;
             manager.RegisterWallHit();
             PlayHitSound();
         }
